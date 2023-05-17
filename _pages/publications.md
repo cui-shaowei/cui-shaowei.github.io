@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 # 2023
+- **S. Cui**, Y. Wang, S. Wang, Q. Li, R. Wang, and C. Zhang, "**High Fidelity Tactile Imprint Simulation of Visuotactile Sensors**", accepted by **IEEE ICMA 2023**.
+- **S. Cui**, C. Zhang, Z. Shao, R. Wang, Y. Wang, S. Wang, and Y. Tian, "**Contact Volumetric Mesh Simulation of GelStereo Visuotactile Sensors**", accepted by **IEEE CYBER 2023**.
+- **S. Cui**, Y. Tian, J. Hu, R. Wang, Y. Wang, and S. Wang, "**Prototype of A Novel Visuotactile Endoscope Probe**", accepted by **IEEE CYBER 2023**.
 - **S. Cui**, S. Wang, R. Wang, S. Zhang, and C. Zhang, "**Learning-based Slip Detection for Dexterous Manipulation Using GelStereo Sensing**", accepted by **IEEE Transactions on Neural Networks and Learning Systems**.
 - C. Zhang, **S. Cui**, S. Wang, J. Hu, Y. Huangfu, and B. Zhang, "**Refractive Calibration Study for 3D Contact Shape Measurement of GelStereo-type Sensors**," accepted by **Sensors**.
 - J. Hu, **S. Cui**, S. Wang, C. Zhang, R. Wang, L. Chen, and Y. Li, "**GelStereo Palm: a Novel Curved Visuotactile Sensor for 3D Geometry Sensing**," accepted by **IEEE Transactions on Industrial Informatics**.
