@@ -1,10 +1,11 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
+permalink:/publications/
+title: "Awards & Funding"
 author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
 ---
-
 # 2023
 - **S. Cui**, Y. Wang, S. Wang, Q. Li, R. Wang, and C. Zhang, "**High Fidelity Tactile Imprint Simulation of Visuotactile Sensors**", accepted by **IEEE ICMA 2023**.
 - **S. Cui**, C. Zhang, Z. Shao, R. Wang, Y. Wang, S. Wang, and Y. Tian, "**Contact Volumetric Mesh Simulation of GelStereo Visuotactile Sensors**", accepted by **IEEE CYBER 2023**.
