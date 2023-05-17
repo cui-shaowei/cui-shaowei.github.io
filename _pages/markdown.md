@@ -1,13 +1,28 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Awards & Funding"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+# Awards
+- 中国科学院“特别研究助理资助项目”，2023
+- 北京市优秀毕业生，2022
+- 中国科学院“院长优秀奖”，2022
+- 博士国家奖学金，2021
+- “优秀论文奖”，第十四届智能机器人大会，2019
+- "在线识别组，冠军”，水下目标抓取大赛，2018
+
+---
+
+# Funding
+- 中国科学院“特别研究助理资助项目”，60万，2023
+
+
+---
+<!-- ## Locations of key files/directories
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
@@ -199,4 +214,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 ### Variable Tag
 
-This allows you to denote <var>variables</var>.
+This allows you to denote <var>variables</var>. -->
