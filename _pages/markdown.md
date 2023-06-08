@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Awards & Funding"
+title: ""
 author_profile: true
 redirect_from: 
   - /md/
