@@ -10,7 +10,7 @@ redirect_from:
 
  I am now working in The State Key Laboratory of Multimodal Artifical Intelligence System (多模态人工智能系统全国重点实验室，MAIS), Institute of Automation, Chinese Academy of Sciences (中科院自动化所，CASIA) as an  Research Assistant.
 
-My research interests include **tactile sensing**, **visual-tactile perception**, and **dexterous robotics manipulation**.
+My research interests include **Visuotactile Sensors**, **Visual-Tactile Perception**, and **Dexterous Robotic Manipulation**.
 ![Research Interests](./images/studys.png)
 
 News
