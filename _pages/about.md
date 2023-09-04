@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
- I am now working in The State Key Laboratory of Multimodal Artifical Intelligence System (多模态人工智能系统全国重点实验室，MAIS), Institute of Automation, Chinese Academy of Sciences (中科院自动化所，CASIA) as an  Research Assistant. Prior to that, I received my Ph.D degree in CASIA under the supervision of Prof. Shuo Wang.
+ I am now working in The State Key Laboratory of Multimodal Artifical Intelligence System (多模态人工智能系统全国重点实验室，MAIS), Institute of Automation, Chinese Academy of Sciences (中科院自动化所，CASIA) as an  Research Assistant.
 
 My research interests include **tactile sensing**, **visual-tactile perception**, and **dexterous robotics manipulation**.
 ![Research Interests](./images/studys.png)
 
 News
 ======
+- 2023-08-21 Our new paper on GelStereo sensors **GelStereo 2.0: An Improved GelStereo Sensor with Multi-Medium Refractive Stereo Calibration** was accepted by IEEE Transactions on Industrial Electronics.
+- 2023-08-06: Our paper **"High Fidelity Tactile Imprint Simulation of Visuotactile Sensors"** was awarded by **Toshio Fukuda Best Paper Award in Mechatronics** of **IEEE ICMA 2023**.
 - 2023-05-15: Our new paper on Tactile Imprint Simulation **"High Fidelity Tactile Imprint Simulation of Visuotactile Sensors"** was accepted by **IEEE ICMA 2023**.
 - 2023-05-06: Our two new papers on GelStereo simulation **"Contact Volumetric Mesh Simulation of GelStereo Visuotactile Sensors"** and Visuotac Endoscope **"Prototype of A Novel Visuotactile Endoscope Probe"** were accepted by IEEE-CYBER 2023.
 - 2023-04-24: Our new paper on learning-based visuotactile slip perception **"Learning-based Slip Detection for Dexterous Manipulation Using GelStereo Sensing"** was accepted by **IEEE Transactions on Neural Networks and Learning Systems (JCR Q1)**.
