@@ -15,6 +15,7 @@ My research interests include **Visuotactile Sensors**, **Visual-Tactile Percept
 
 News
 ======
+- 2023-11-21 Our new paper on GelStereo sensors **GelStereo BioTip: Self-Calibrating Bionic Visuotactile Fingertip for Robotic Manipulation** was accepted by **IEEE/ASME Transactions on Mechatronics (TMECH) (JCR Q1)**. Congratulations!!!
 - 2023-08-21 Our new paper on GelStereo sensors **GelStereo 2.0: An Improved GelStereo Sensor with Multi-Medium Refractive Stereo Calibration** was accepted by **IEEE Transactions on Industrial Electronics (JCR Q1)**. Congratulations to Chaofan!!!
 - 2023-08-06: Our paper **High-Fidelity Tactile Imprint Simulation with Visuotactile Sensors** won the **IEEE ICMA 2023 Toshio Fukuda Best Paper Award in Mechatronics**.
 - 2023-05-15: Our new paper on Tactile Imprint Simulation **"High Fidelity Tactile Imprint Simulation of Visuotactile Sensors"** was accepted by **IEEE ICMA 2023**.

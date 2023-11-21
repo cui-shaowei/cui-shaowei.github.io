@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # 2023
+- **S. Cui**, S. Wang, C. Zhang, R. Wang, S. Zhang, and Y. Wang, "**GelStereo BioTip: Self-Calibrating Bionic Visuotactile Fingertip for Robotic Manipulation**", accepted by **IEEE/ASME Transactions on Mechatronics (TMECH)**.
 - C. Zhang, **S. Cui**, S. Wang, J. Hu, Y. Cai, R. Wang, and Y. Wang, **GelStereo 2.0: An Improved GelStereo Sensor with Multi-Medium Refractive Stereo Calibration**, accepted by **IEEE Transactions on Industrial Electronics**.
 - **S. Cui**, Y. Wang, S. Wang, Q. Li, R. Wang, and C. Zhang, "**High Fidelity Tactile Imprint Simulation of Visuotactile Sensors**", accepted by **IEEE ICMA 2023**.
 - **S. Cui**, C. Zhang, Z. Shao, R. Wang, Y. Wang, S. Wang, and Y. Tian, "**Contact Volumetric Mesh Simulation of GelStereo Visuotactile Sensors**", accepted by **IEEE CYBER 2023**.
