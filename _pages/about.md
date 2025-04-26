@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am now working in The State Key Laboratory of Multimodal Artifical Intelligence System (多模态人工智能系统全国重点实验室，MAIS), Institute of Automation, Chinese Academy of Sciences (中科院自动化所，CASIA) as an  Research Assistant Professor（助理研究员）.
+ I am now working in The State Key Laboratory of Multimodal Artifical Intelligence System (多模态人工智能系统全国重点实验室，MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA) as an  Research Assistant Professor.
 
 My research interests include **Visuotactile Sensors**, **Visual-Tactile Perception**, and **Dexterous Manipulation**.
 ![Research Interests](./images/gelstereo.png)
