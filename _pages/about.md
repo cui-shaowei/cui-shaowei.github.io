@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am now working in The State Key Laboratory of Multimodal Artifical Intelligence System (多模态人工智能系统全国重点实验室，MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA) as an  Research Assistant Professor.
+ I graduated with a bachelor's degree from the School of Mechanical and Automotive Engineering at South China University of Technology in 2017. Subsequently, I was recommended for graduate studies and pursued my Ph.D. at the Institute of Automation, Chinese Academy of Sciences. After obtaining my Ph.D. degree in 2022, I am now working in The State Key Laboratory of Multimodal Artifical Intelligence System (多模态人工智能系统全国重点实验室，MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA) as an  Research Assistant Professor.
 
 My research interests include **Visuotactile Sensors**, **Visual-Tactile Perception**, and **Dexterous Manipulation**.
 ![Research Interests](./images/gelstereo.png)
