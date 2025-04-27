@@ -8,13 +8,18 @@ redirect_from:
   - /about.html
 ---
 
- I graduated with a bachelor's degree from the School of Mechanical and Automotive Engineering at South China University of Technology in 2017. Subsequently, I was recommended for graduate studies and pursued my Ph.D. at the Institute of Automation, Chinese Academy of Sciences. After obtaining my Ph.D. degree in 2022, I am now working in The State Key Laboratory of Multimodal Artifical Intelligence System (多模态人工智能系统全国重点实验室，MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA) as an  Research Assistant Professor.
+ I graduated with a bachelor's degree from the School of Mechanical and Automotive Engineering at South China University of Technology in 2017. Subsequently, I was recommended for graduate studies and pursued my Ph.D. at the Institute of Automation, Chinese Academy of Sciences. After obtaining my Ph.D. degree in 2022, I am now working in The State Key Laboratory of Multimodal Artifical Intelligence System, Institute of Automation, Chinese Academy of Sciences (CASIA) as an Research Assistant Professor.
 
-My research interests include **Visuotactile Sensors**, **Visual-Tactile Perception**, and **Dexterous Manipulation**.
-![Research Interests](./images/gelstereo.png)
+My research interests include **Visuotactile Sensors**, **Visual-Tactile-Language-Action Model**, and **Dexterous Manipulation**.
+<!-- ![Research Interests](./images/gelstereo.png) -->
 
 News
 ======
+- 2025-04-22 Our paper on Lateral Line Sensor **FlowSight: Vision-based Artificial Lateral Line Sensor for Water Flow Perception** has been accepted by IEEE TRO. Congratulations to Tiandong!!!
+- 2025-04-11 Our paper on Visuotactile Simuluation **TacFlex: Multi-Mode Tactile Imprints Simulation for Visuotactile Sensors with Coating Patterns** has been accepted by IEEE TRO. Congratulations to Chaofan!!!
+- 2025-03-30 We propose the **Tactile-Language-Action (TLA)** model for contact-rich manipulation. https://arxiv.org/abs/2503.08548
+- 2024-12-30 Our paper **Active Shape Reconstruction using A Novel Visuotactile Palm Sensor** won the **Biomimetic Intelligence and Robotics 2024 Best Paper**. Congratulations to Jingyi!!!
+- 2024-06-28 Our new paper on Tactile Endoscope **Deformation Pattern Shape Sensing for Visuotactile Endoscope** won the **IEEE RCAR 2024 Best Student Paper**. Congratulations to Yanzhe!!!
 - 2023-11-21 Our new paper on GelStereo sensors **GelStereo BioTip: Self-Calibrating Bionic Visuotactile Fingertip for Robotic Manipulation** was accepted by **IEEE/ASME Transactions on Mechatronics (TMECH) (JCR Q1)**. Congratulations!!!
 - 2023-08-21 Our new paper on GelStereo sensors **GelStereo 2.0: An Improved GelStereo Sensor with Multi-Medium Refractive Stereo Calibration** was accepted by **IEEE Transactions on Industrial Electronics (JCR Q1)**. Congratulations to Chaofan!!!
 - 2023-08-06: Our paper **High-Fidelity Tactile Imprint Simulation with Visuotactile Sensors** won the **IEEE ICMA 2023 Toshio Fukuda Best Paper Award in Mechatronics**.
