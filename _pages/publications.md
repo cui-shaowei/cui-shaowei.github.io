@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+The latest papers can be found at https://scholar.google.com/citations?hl=zh-CN&user=XYvt8NYAAAAJ&view_op=list_works&sortby=pubdate
 # 2023
 - **S. Cui**, S. Wang, C. Zhang, R. Wang, S. Zhang, and Y. Wang, "**GelStereo BioTip: Self-Calibrating Bionic Visuotactile Fingertip for Robotic Manipulation**", accepted by **IEEE/ASME Transactions on Mechatronics (TMECH)**.
 - C. Zhang, **S. Cui**, S. Wang, J. Hu, Y. Cai, R. Wang, and Y. Wang, **GelStereo 2.0: An Improved GelStereo Sensor with Multi-Medium Refractive Stereo Calibration**, accepted by **IEEE Transactions on Industrial Electronics**.
