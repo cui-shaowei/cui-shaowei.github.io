@@ -15,7 +15,9 @@ My research interests include **Tactile Sensors**, **Foundation Model for Roboti
 
 News
 ======
+- 2026-01 Selected for the **BAAI Scholar Program 3.0**
 - 2025-12 Our paper on Tactile Sensor for Advanced Trimodal Microsensing has been accepted by **Nature Communications**. Congratulations to all co-authors!
+- 2025-11 Awarded the **Intel Outstanding Innovation Award**.
 - 2025-10 Three papers have been accepted by **IEEE Transactions on Automation Science and Engineering (T-ASE)**. Congratulations to Peng, Congjia, and Boyue!
 - 2025-04-22 Our paper on Lateral Line Sensor **FlowSight: Vision-based Artificial Lateral Line Sensor for Water Flow Perception** has been accepted by **IEEE Transactions on Robotics (TRO)**. Congratulations to Tiandong!
 - 2025-04-11 Our paper on Visuotactile Simuluation **TacFlex: Multi-Mode Tactile Imprints Simulation for Visuotactile Sensors with Coating Patterns** has been accepted by **IEEE Transactions on Robotics (TRO)**. Congratulations to Chaofan!
