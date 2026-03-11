@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I received my bachelor's degree from **South China University of Technology** and my doctorate from the **Institute of Automation, Chinese Academy of Sciences (CASIA)** in 2022. I am now working in The State Key Laboratory of Multimodal Artifical Intelligence System as an **Research Assistant Professor**.
+ I received my bachelor's degree from **South China University of Technology** and my doctorate from the **Institute of Automation, Chinese Academy of Sciences (CASIA)** in 2022. I am now working in The State Key Laboratory of Multimodal Artifical Intelligence System as an **Associate Professor**.
 
 My research interests include **Tactile Sensors**, **Foundation Model for Robotics**, and **Dexterous Manipulation**.
 <!-- ![Research Interests](./images/gelstereo.png) -->
